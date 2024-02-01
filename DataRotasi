@@ -1,5 +1,15 @@
-hargapack = 2000 -- HARGA PACK
-namapack = "world_lock" -- NAMA PACK
-MinItemPack = 1 --APABILA JUMLAH ITEM YANG ADA DIDALAM 
-maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
+hargapack = 2000
+namapack = "world_lock"
+MinItemPack = 1
+maxbuy = 10
 iditempack = {242}
+
+ControlViaDC = true
+DelayRecon = 10000 --JEDA RECONNECT
+
+---===== COCOK UNTUK EVENT! =====---
+SpecialItem = {5030,5036,7162,5024,882,1406,7164,5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK HARVEST FEST!
+minSpec = 15 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
+WorldSpec = "sulpo7"
+idWorldSpec = "fosil"
+ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
