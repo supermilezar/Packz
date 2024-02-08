@@ -4,6 +4,8 @@ MinItemPack = 1
 maxbuy = 10
 iditempack = {242}
 
+DurasiWorldPNB = 240 --BERAPA MENIT AGAR BOTNYA GANTI WORLD
+
 ControlViaDC = true
 DelayRecon = 10000 --JEDA RECONNECT
 
