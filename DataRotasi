@@ -1,6 +1,6 @@
 hargapack = 2000
 namapack = "world_lock"
-MinItemPack = 1
+MinItemPack = 2
 maxbuy = 10
 iditempack = {242}
 TimeRelogBotMatung = 10 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
@@ -12,7 +12,7 @@ DelayRecon = 10000 --JEDA RECONNECT
 
 ---===== COCOK UNTUK EVENT! =====---
 SpecialItem = {5030,5036,7162,5024,882,1406,7164,5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK EVENT!
-minSpec = 40 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
+minSpec = 50 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
 WorldSpec = "SULPO7"
 idWorldSpec = "SEDI99"
 ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
