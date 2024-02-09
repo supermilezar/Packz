@@ -1,8 +1,8 @@
 hargapack = 2000
-namapack = "world_lock"
+namapack = "signal_jammer"
 MinItemPack = 1
 maxbuy = 10
-iditempack = {242}
+iditempack = {226}
 
 DurasiWorldPNB = 240 --BERAPA MENIT AGAR BOTNYA GANTI WORLD
 
