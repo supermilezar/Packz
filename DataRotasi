@@ -20,3 +20,5 @@ WebhookSpec = "https://discord.com/api/webhooks/1203394857025151036/U5y48ELYe7zV
 HookIDSpec = "1203394954488184953"
 ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
 ShowSpecInfo = true
+
+ControlViaDC = true
