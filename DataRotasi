@@ -22,3 +22,15 @@ ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
 ShowSpecInfo = true
 
 ControlViaDC = true
+
+
+---===== EMOJI =====---
+emot_bot = "<:kitten:1077495938161049610>"
+emot_gems = "<:gemz:1038591118331359343>"
+emot_pack = "<:ssp:1111897895415848980>"
+emot_world = "<a:Arrow:1091357145821347860>"
+emot_pickaxe = "<:pickaxegyrogold:1025472230970359829>"
+emot_wl = "<:Wls:1035853986554724363>"
+emot_rank = ":medal:"
+emot_tas = "<:bplol:1105835654279082085>"
+emot_computer = ":computer:"
