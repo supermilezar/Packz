@@ -22,7 +22,7 @@ ID_AcuanDrop_Spec = 3 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
 ShowSpecInfo = true
 
 ControlViaDC = true
-
+JedaHW = 20 --Bot Berhenti Reconnect Selama 20 Menit Ketika Hardwarp
 
 ---===== EMOJI =====---
 emot_bot = "<:kitten:1077495938161049610>"
