@@ -23,6 +23,9 @@ ShowSpecInfo = true
 
 ControlViaDC = true
 JedaHW = 20 --Bot Berhenti Reconnect Selama 20 Menit Ketika Hardwarp
+Usage:
+AbaikanTile = {242, 226} --ARTINYA BOT TIDAK AKAN PLANTING DIATAS WL DAN SIGNAL JAMMER
+TilePNB = 5 --BOTNYA AKAN BREAK 5 TILES
 
 ---===== EMOJI =====---
 emot_bot = "<:kitten:1077495938161049610>"
