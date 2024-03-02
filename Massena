@@ -1,6 +1,6 @@
 hargapack = 1000
 namapack = "ssp_10_pack"
-MinItemPack = 3
+MinItemPack = 30
 maxbuy = 3
 iditempack = {5706}
 TimeRelogBotMatung = 8 --JIKA TIDAK ADA AKTIVITAS SELAMA 7 MENIT, AUTO RELOG
